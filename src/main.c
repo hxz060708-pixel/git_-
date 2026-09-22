@@ -2,6 +2,7 @@
 #include "utils.h"
 #include "config.h"
 //这是分支abc
+//v6版本发布了
 int main(void) {
     printf("hello from %s\n", PROJECT_NAME);
     printf("add(3, 4) = %d\n", add(3, 4));
